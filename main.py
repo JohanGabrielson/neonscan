@@ -20,7 +20,7 @@ def port_selection():
         return [22, 80, 443, 445, 3389]
 
     elif choice == "3":
-        return list(range(1, 1025))
+        return list(range(1, 65535))
 
     elif choice == "4":
         ports = input("Ports (ex: 21,22,80,443): ")
