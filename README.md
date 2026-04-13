@@ -25,5 +25,11 @@ neonscan/
 ~~~
 
 ### Intended use
-Neon scan is intended to be use for education, testing and legitimate security analysis. 
+Neon scan is intended to be use for education, CTF,  testing and legitimate security analysis. 
 Do not use on networks without consent.
+
+### Auhtor 
+Created by Johan - Stockholm, Sweden
+
+### License
+Free to use for anyone, anywhere, anytime.

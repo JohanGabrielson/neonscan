@@ -1,0 +1,5 @@
+12:42:22.741265 IP (tos 0x0, ttl 64, id 62698, offset 0, flags [DF], proto UDP (17), length 67)
+    10.0.2.15.40254 > 46.246.49.128.31337: [bad udp cksum 0x6cc5 -> 0x387b!] UDP, length 39
+12:42:22.859898 IP (tos 0x0, ttl 64, id 39, offset 0, flags [none], proto UDP (17), length 29)
+    46.246.49.128.31337 > 10.0.2.15.40254: [udp sum ok] UDP, length 1
+
